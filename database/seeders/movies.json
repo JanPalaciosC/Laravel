@@ -1,0 +1,52 @@
+[
+	{
+		"title":"El Justiciero",
+		"description":"euheuehueuheuheuhe",
+		"clasification":"B15",
+		"minutes":131,
+		"year":2014,
+		"cover":"justiciero.png",
+		"trailer":"https://www.youtube.com/watch?v=vlVSJ0AvZe0",
+		"category_id":4
+	},
+	{
+		"title":"El Justiciero De Marvel",
+		"description":"euheuehueuheuheuhe",
+		"clasification":"B15",
+		"minutes":131,
+		"year":2014,
+		"cover":"justiciero.png",
+		"trailer":"https://www.youtube.com/watch?v=vlVSJ0AvZe0",
+		"category_id":3
+	},
+	{
+		"title":"El Justiciero Por Los Loles",
+		"description":"euheuehueuheuheuhe",
+		"clasification":"B15",
+		"minutes":131,
+		"year":2014,
+		"cover":"justiciero.png",
+		"trailer":"https://www.youtube.com/watch?v=vlVSJ0AvZe0",
+		"category_id":2
+	},
+	{
+		"title":"El Justiciero Recargado",
+		"description":"euheuehueuheuheuhe",
+		"clasification":"B15",
+		"minutes":131,
+		"year":2014,
+		"cover":"justiciero.png",
+		"trailer":"https://www.youtube.com/watch?v=vlVSJ0AvZe0",
+		"category_id":5
+	},
+	{
+		"title":"El Justiciero 6.0",
+		"description":"euheuehueuheuheuhe",
+		"clasification":"B15",
+		"minutes":131,
+		"year":2014,
+		"cover":"justiciero.png",
+		"trailer":"https://www.youtube.com/watch?v=vlVSJ0AvZe0",
+		"category_id":1
+	}
+]
