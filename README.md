@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Laravel
 Aprendiendo a usar Laravel
 =======
@@ -64,3 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 >>>>>>> d6642f7 (initial commit)
+=======
+# laravel
+>>>>>>> 73660a312b01f585af54196ea46a3bb0808e0eda
