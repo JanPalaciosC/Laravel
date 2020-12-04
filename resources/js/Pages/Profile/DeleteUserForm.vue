@@ -54,6 +54,7 @@
 
 <script>
     import JetActionSection from '@/Jetstream/ActionSection'
+    import JetButton from '@/Jetstream/Button'
     import JetDialogModal from '@/Jetstream/DialogModal'
     import JetDangerButton from '@/Jetstream/DangerButton'
     import JetInput from '@/Jetstream/Input'
@@ -63,6 +64,7 @@
     export default {
         components: {
             JetActionSection,
+            JetButton,
             JetDangerButton,
             JetDialogModal,
             JetInput,

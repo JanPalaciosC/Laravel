@@ -2,19 +2,19 @@
     <x-slot name="header">
 		<div class="row">
 			<div class="col-8">
-				<h2 class="font-semibold text-xl text-light  leading-tight ">
+				<h2 class="font-semibold text-xl text-gray-800  leading-tight ">
 		            {{ __('Movies') }} 
 		        </h2>
 			</div>
 			<div class="col-4">
-				<button class="btn btn-danger float-right" data-toggle="modal" data-target="#addMovie">		        	
+				<button class="btn btn-primary float-right" data-toggle="modal" data-target="#addMovie">		        	
 		        	<label class="d-none d-sm-inline">Add Movie </label> +
 		        </button>
 			</div>
 		</div>  
     </x-slot>
 
-    <div class="py-12 bg-dark h-100" style="min-height: 100vh; overflow: hidden;">
+    <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white shadow-xl ">
             	<div class="table-responsive">

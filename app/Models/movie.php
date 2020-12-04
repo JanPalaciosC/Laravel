@@ -22,7 +22,7 @@ class Movie extends Model
     }
 
     protected $fillable = [
-        'name',
+        'title',
         'description',
         'clasification',
         'minutes',
@@ -32,4 +32,3 @@ class Movie extends Model
         'category_id',
     ];
 }
-

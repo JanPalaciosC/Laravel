@@ -1,4 +1,6 @@
 <x-guest-layout>
+    <div class="bg-dark">
+        
     <x-jet-authentication-card>
         <x-slot name="logo">
             <x-jet-authentication-card-logo />
@@ -31,4 +33,5 @@
             </div>
         </form>
     </x-jet-authentication-card>
+    </div>
 </x-guest-layout>
